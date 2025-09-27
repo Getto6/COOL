@@ -5,5 +5,5 @@
 Main类用于测试队列功能的完整性和正确性。
 
 COOL代码运行命令：
-coolc homework.cl
-spim homework.s
+coolc coolwork.cl
+spim coolwork.s
